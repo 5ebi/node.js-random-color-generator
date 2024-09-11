@@ -8,3 +8,5 @@ Display random colors on the command line
 
 -hue (eg. green or red or blue)
 -luminosity (eg- light or dark)
+
+lets go
