@@ -20,4 +20,4 @@ const square = [
   '###############################',
 ];
 
-square.forEach((line) => console.log(chalk.hex(`${color}`).bold(line)));
+square.forEach((line) => console.log(chalk.hex(color).bold(line)));
